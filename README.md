@@ -1,2 +1,2 @@
-# coostories.github.io
-The COO Stories Website
+# foundertribe.github.io
+The Founder Tribe Website
