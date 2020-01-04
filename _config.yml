@@ -5,13 +5,13 @@ permalink: ':title'
 # permalink: ':title'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://foundertribe.org" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: FounderTribe #if your site has a twitter account, enter it here
+site-twitter: Founder_Tribe #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Maxxwell Firth # add your name
 author-img: # add your photo
 about-author: # add description
-social-twitter: FounderTribe # add your Twitter handle
+social-twitter: Founder_Tribe # add your Twitter handle
 social-instagram: FounderTribe # add your Instagram handle
 social-github: FounderTribe # add your Github handle
 social-linkedin: FounderTribe # add your Linkedin handle
