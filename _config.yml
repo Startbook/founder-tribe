@@ -1,0 +1,36 @@
+title: Founder Tribe
+description: > # this means to ignore newlines until "baseurl:"
+  The community for founders of fast-growing businesses.
+permalink: ':title'
+# permalink: ':title'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://foundertribe.org" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: FounderTribe #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Maxxwell Firth # add your name
+author-img: # add your photo
+about-author: # add description
+social-twitter: FounderTribe # add your Twitter handle
+social-instagram: FounderTribe # add your Instagram handle
+social-github: FounderTribe # add your Github handle
+social-linkedin: FounderTribe # add your Linkedin handle
+social-email: maxxwell@foundertribe.org # add your Email address
+
+# Disqus
+discus-identifier: maxxwellfirth # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins_dir:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
