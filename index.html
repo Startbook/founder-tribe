@@ -23,10 +23,12 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="styles/form.css" rel="stylesheet" >
-    <link href="styles/style.css" rel="stylesheet">
     <link href="styles/portfolio.css" rel="stylesheet">
     <link href="styles/scrolling-nav.css" rel="stylesheet">
     <link href="styles/slider.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/hamburgers.css" rel="stylesheet">
 </head>
 
 <body>
@@ -35,14 +37,27 @@
       <div class="container">
           <div class="navbar-header">
             <div class="container">
-              <a class="navbar-link" href=""><img width="150px"  src="img/Founder-Tribe-Logo-Small.png"/></a>
+              <a class="navbar-brand" href=""><img height="45px"  src="img/Founder-Tribe-Logo-Small.png"/></a>
+              <div class="collapse navbar-collapse text-center" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav">
+                    <li><a class="navbar-link" href="#about">About</a></li>
+                    <li><a class="navbar-link" href="#partners">Partners</a></li>
+                    <li><a class="navbar-link" href="#contact">Contact</a></li>
+                  </ul>
+              </div>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
               </div>
           </div>
 
       </div>
     </nav>
 
-    <section id="coo-stories" class="about" style="margin:0px 25px 0px 25px">
+    <section id="title" class="about" style="margin:0px 25px 0px 25px">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-md-offset-1">
@@ -61,7 +76,7 @@
 
           <div class="row">
               <div class="col-lg-6 col-lg-offset-3">
-                <h2 style="font-size:2.5em; font-weight:600; color:#f5633b">About the community</h2><br>
+                <h2 style="font-size:2.5em; font-weight:600; color:#f5633b;text-align:center">About the community</h2><br>
               </div>
           </div>
 
@@ -83,6 +98,50 @@
             <!-- /.row -->
         </div>
         <!-- /.container -->
+    </section>
+
+    <section id="partners" class="about" style="margin:0px 25px 0px 25px">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4">
+                  <h2 style="font-size:2.5em; font-weight:600; color:#f5633b;text-align:center";>Partners</h2><br>
+                  <!-- <p class="lead">We partners with a large array of organisations that support our members.</p> -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                  <img width="100%" src="img/centre-for-entrepreneurs.png"/>
+                </div>
+                <div class="col-md-3">
+                  <img width="100%" src="img/hotjar.png"/>
+                </div>
+                <div class="col-md-3">
+                  <img width="100%" src="img/hunter.png"/>
+                </div>
+                <div class="col-md-3">
+                  <img width="100%" src="img/looka.png"/>
+                </div>
+            </div>
+            <!-- <div class="row">
+                <div class="col-md-2 col-md-offset-1">
+                  <img width="100%" src="img/hotjar.png"/>
+                </div>
+                <div class="col-md-2 col-md-offset-1">
+                  <img width="100%" src="img/hunter.png"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-md-offset-2">
+                  <img width="100%" src="img/centre-for-entrepreneurs.png"/>
+                </div>
+                <div class="col-md-2 col-md-offset-1">
+                  <img width="100%" src="img/hotjar.png"/>
+                </div>
+                <div class="col-md-2 col-md-offset-1">
+                  <img width="100%" src="img/hunter.png"/>
+                </div>
+            </div> -->
+        </div>
     </section>
 
     <section id="contact" class="call-to-action bg-primary">
@@ -126,6 +185,7 @@
     <script src="scripts/portfolio.js"></script>
     <script src="scripts/jquery.easing.min.js"></script>
     <script src="scripts/scrolling-nav.js"></script>
+    <script src="scripts/nav.js"></script>
 
     <!-- Custom Theme JavaScript -->
     <script>
