@@ -542,3 +542,8 @@ video {
 #footer-email a:hover {
   color: #f5633b;
 }
+
+#footer-logo {
+  max-height:105px;
+  padding: 15px;
+}
