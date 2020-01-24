@@ -1,6 +1,6 @@
 title: Founder Tribe
 description: > # this means to ignore newlines until "baseurl:"
-  The community for solo founders.
+  The community for London's solo founders.
 permalink: ':title'
 # permalink: ':title'
 baseurl: "" # the subpath of your site, e.g. /blog
