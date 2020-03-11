@@ -1,0 +1,141 @@
+.grow {
+  transition: all 0.2s ease-in-out;
+  background-size: cover;
+  height: 125px;
+  max-width: 125px;
+  margin: auto;
+}
+
+.grow:hover {
+  transform: scale(1.15);
+  background-color: #f5633b;
+  background-size: cover;
+}
+
+.i1 {
+  background-image: url(/assets/img/ventures/doubletapp.png);
+}
+
+.i1:hover {
+  background-image: url(../../assets/img/ventures/doubletapp-white.png);
+}
+
+.i2 {
+  background-image: url(/assets/img/ventures/bold-voices.png);
+}
+
+.i2:hover {
+  background-image: url(../../assets/img/ventures/bold-voices-white.png);
+}
+
+.i3 {
+  background-image: url(/assets/img/ventures/myndup.png);
+}
+
+.i3:hover {
+  background-image: url(../../assets/img/ventures/myndup-white.png);
+}
+
+.i4 {
+  background-image: url(/assets/img/ventures/pips.png);
+}
+
+.i4:hover {
+  background-image: url(../../assets/img/ventures/pips-white.png);
+}
+
+.i5 {
+  background-image: url(/assets/img/ventures/dream-nation.png);
+}
+
+.i5:hover {
+  background-image: url(../../assets/img/ventures/dream-nation-white.png);
+}
+
+.i6 {
+  background-image: url(/assets/img/ventures/blacwxlf.png);
+}
+
+.i6:hover {
+  background-image: url(../../assets/img/ventures/blacwxlf-white.png);
+}
+
+.i7 {
+  background-image: url(/assets/img/ventures/homefinder.png);
+}
+
+.i7:hover {
+  background-image: url(../../assets/img/ventures/homefinder-white.png);
+}
+
+.i8 {
+  background-image: url(/assets/img/ventures/traktion.png);
+}
+
+.i8:hover {
+  background-image: url(../../assets/img/ventures/traktion-white.png);
+}
+
+.i9 {
+  background-image: url(/assets/img/ventures/discover-consultancy.png);
+}
+
+.i9:hover {
+  background-image: url(../../assets/img/ventures/discover-consultancy-white.png);
+}
+
+.i10 {
+  background-image: url(/assets/img/ventures/activate.png);
+}
+
+.i10:hover {
+  background-image: url(../../assets/img/ventures/activate-white.png);
+}
+
+.i11 {
+  background-image: url(/assets/img/ventures/aviation-experience-days.png);
+}
+
+.i11:hover {
+  background-image: url(../../assets/img/ventures/aviation-experience-days-white.png);
+}
+
+.i12 {
+  background-image: url(/assets/img/ventures/gifter.png);
+}
+
+.i12:hover {
+  background-image: url(../../assets/img/ventures/gifter-white.png);
+}
+
+.i13 {
+  background-image: url(/assets/img/ventures/mix-and-rise.png);
+}
+
+.i13:hover {
+  background-image: url(../../assets/img/ventures/mix-and-rise-white.png);
+}
+
+.i14 {
+  background-image: url(/assets/img/ventures/circle.png);
+}
+
+.i14:hover {
+  background-image: url(../../assets/img/ventures/circle-white.png);
+}
+
+.i15 {
+  background-image: url(/assets/img/ventures/lingupp.png);
+}
+
+.i15:hover {
+  background-image: url(../../assets/img/ventures/lingupp-white.png);
+}
+
+.i16 {
+  background-image: url(/assets/img/ventures/lokal.png);
+}
+
+.i16:hover {
+  background-image: url(../../assets/img/ventures/lokal-white.png);
+}
