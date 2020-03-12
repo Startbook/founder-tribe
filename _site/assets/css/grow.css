@@ -1,17 +1,37 @@
 #ventures a {
   transition: all 0.2s ease-in-out;
   background-size: cover;
-  height: 250px;
-  width: 250px;
+  /* min-height: 250px; */
+  /* width: 250px; */
   margin: auto;
 }
 
 .grow {
   transition: all 0.2s ease-in-out;
   background-size: cover;
-  height: 250px;
-  max-width: 250px;
-  margin: auto;
+  display: grid;
+  min-height: 250px;
+  min-width: 250px;
+  margin: 1em;
+}
+
+@media only screen and (max-width: 480px) {
+  #ventures a {
+    transition: all 0.2s ease-in-out;
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+    display: grid;
+  }
+
+  .grow {
+    transition: all 0.2s ease-in-out;
+    background-size: cover;
+    /* height: 250px; */
+    width: 100%;
+    padding-top: 100%;
+    margin: auto;
+  }
 }
 
 .grow:hover {
