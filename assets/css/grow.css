@@ -167,3 +167,139 @@
 .i16:hover {
   background-image: url(../../assets/img/ventures/lokal-orange.png);
 }
+
+#partners a {
+  transition: all 0.2s ease-in-out;
+  background-size: cover;
+  /* min-height: 250px; */
+  /* width: 250px; */
+  margin: auto;
+}
+
+.ip1 {
+  background-image: url(/assets/img/partners/1a.png);
+}
+
+.ip1:hover {
+  background-image: url(../../assets/img/partners/1b.png);
+}
+
+.ip2 {
+  background-image: url(/assets/img/partners/2a.png);
+}
+
+.ip2:hover {
+  background-image: url(../../assets/img/partners/2b.png);
+}
+
+.ip3 {
+  background-image: url(/assets/img/partners/3a.png);
+}
+
+.ip3:hover {
+  background-image: url(../../assets/img/partners/3b.png);
+}
+
+.ip4 {
+  background-image: url(/assets/img/partners/4a.png);
+}
+
+.ip4:hover {
+  background-image: url(../../assets/img/partners/4b.png);
+}
+
+.ip5 {
+  background-image: url(/assets/img/partners/5a.png);
+}
+
+.ip5:hover {
+  background-image: url(../../assets/img/partners/5b.png);
+}
+
+.ip6 {
+  background-image: url(/assets/img/partners/6a.png);
+}
+
+.ip6:hover {
+  background-image: url(../../assets/img/partners/6b.png);
+}
+
+.ip7 {
+  background-image: url(/assets/img/partners/7a.png);
+}
+
+.ip7:hover {
+  background-image: url(../../assets/img/partners/7b.png);
+}
+
+.ip8 {
+  background-image: url(/assets/img/partners/8a.png);
+}
+
+.ip8:hover {
+  background-image: url(../../assets/img/partners/8b.png);
+}
+
+.ip9 {
+  background-image: url(/assets/img/partners/9a.png);
+}
+
+.ip9:hover {
+  background-image: url(../../assets/img/partners/9b.png);
+}
+
+.ip10 {
+  background-image: url(/assets/img/partners/10a.png);
+}
+
+.ip10:hover {
+  background-image: url(../../assets/img/partners/10b.png);
+}
+
+.ip11 {
+  background-image: url(/assets/img/partners/11a.png);
+}
+
+.ip11:hover {
+  background-image: url(../../assets/img/partners/11b.png);
+}
+
+.ip12 {
+  background-image: url(/assets/img/partners/12a.png);
+}
+
+.ip12:hover {
+  background-image: url(../../assets/img/partners/12b.png);
+}
+
+.ip13 {
+  background-image: url(/assets/img/partners/13a.png);
+}
+
+.ip13:hover {
+  background-image: url(../../assets/img/partners/13b.png);
+}
+
+.ip14 {
+  background-image: url(/assets/img/partners/14a.png);
+}
+
+.ip14:hover {
+  background-image: url(../../assets/img/partners/14b.png);
+}
+
+.ip15 {
+  background-image: url(/assets/img/partners/15a.png);
+}
+
+.ip15:hover {
+  background-image: url(../../assets/img/partners/15b.png);
+}
+
+.ip16 {
+  background-image: url(/assets/img/partners/16a.png);
+}
+
+.ip16:hover {
+  background-image: url(../../assets/img/partners/16b.png);
+}
