@@ -1,3 +1,9 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1463px;
+  }
+}
+
 #ventures a {
   transition: all 0.2s ease-in-out;
   background-size: cover;
@@ -10,8 +16,8 @@
   transition: all 0.2s ease-in-out;
   background-size: cover;
   display: grid;
-  min-height: 250px;
-  min-width: 250px;
+  min-height: 330px;
+  min-width: 330px;
   margin: 1em;
 }
 
