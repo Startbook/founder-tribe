@@ -59,132 +59,132 @@
   background-size: cover;
 }
 
-.i1 {
-  background-image: url(/assets/img/ventures/doubletapp-grey.png);
+.iv1 {
+  background-image: url(/assets/img/ventures/1a.png);
 }
 
-.i1:hover {
-  background-image: url(../../assets/img/ventures/doubletapp-orange.png);
+.iv1:hover {
+  background-image: url(../../assets/img/ventures/1b.png);
 }
 
-.i2 {
-  background-image: url(/assets/img/ventures/bold-voices-grey.png);
+.iv2 {
+  background-image: url(/assets/img/ventures/2a.png);
 }
 
-.i2:hover {
-  background-image: url(../../assets/img/ventures/bold-voices-orange.png);
+.iv2:hover {
+  background-image: url(../../assets/img/ventures/2b.png);
 }
 
-.i3 {
-  background-image: url(/assets/img/ventures/myndup-grey.png);
+.iv3 {
+  background-image: url(/assets/img/ventures/3a.png);
 }
 
-.i3:hover {
-  background-image: url(../../assets/img/ventures/myndup-orange.png);
+.iv3:hover {
+  background-image: url(../../assets/img/ventures/3b.png);
 }
 
-.i4 {
-  background-image: url(/assets/img/ventures/pips-grey.png);
+.iv4 {
+  background-image: url(/assets/img/ventures/4a.png);
 }
 
-.i4:hover {
-  background-image: url(../../assets/img/ventures/pips-orange.png);
+.iv4:hover {
+  background-image: url(../../assets/img/ventures/4b.png);
 }
 
-.i5 {
-  background-image: url(/assets/img/ventures/dream-nation-grey.png);
+.iv5 {
+  background-image: url(/assets/img/ventures/5a.png);
 }
 
-.i5:hover {
-  background-image: url(../../assets/img/ventures/dream-nation-orange.png);
+.iv5:hover {
+  background-image: url(../../assets/img/ventures/5b.png);
 }
 
-.i6 {
-  background-image: url(/assets/img/ventures/blacwxlf-grey.png);
+.iv6 {
+  background-image: url(/assets/img/ventures/6a.png);
 }
 
-.i6:hover {
-  background-image: url(../../assets/img/ventures/blacwxlf-orange.png);
+.iv6:hover {
+  background-image: url(../../assets/img/ventures/6b.png);
 }
 
-.i7 {
-  background-image: url(/assets/img/ventures/homefinder-grey.png);
+.iv7 {
+  background-image: url(/assets/img/ventures/7a.png);
 }
 
-.i7:hover {
-  background-image: url(../../assets/img/ventures/homefinder-orange.png);
+.iv7:hover {
+  background-image: url(../../assets/img/ventures/7b.png);
 }
 
-.i8 {
-  background-image: url(/assets/img/ventures/traktion-grey.png);
+.iv8 {
+  background-image: url(/assets/img/ventures/8a.png);
 }
 
-.i8:hover {
-  background-image: url(../../assets/img/ventures/traktion-orange.png);
+.iv8:hover {
+  background-image: url(../../assets/img/ventures/8b.png);
 }
 
-.i9 {
-  background-image: url(/assets/img/ventures/discover-consultancy-grey.png);
+.iv9 {
+  background-image: url(/assets/img/ventures/9a.png);
 }
 
-.i9:hover {
-  background-image: url(../../assets/img/ventures/discover-consultancy-orange.png);
+.iv9:hover {
+  background-image: url(../../assets/img/ventures/9b.png);
 }
 
-.i10 {
-  background-image: url(/assets/img/ventures/activate-grey.png);
+.iv10 {
+  background-image: url(/assets/img/ventures/10a.png);
 }
 
-.i10:hover {
-  background-image: url(../../assets/img/ventures/activate-orange.png);
+.iv10:hover {
+  background-image: url(../../assets/img/ventures/10b.png);
 }
 
-.i11 {
-  background-image: url(/assets/img/ventures/aviation-experience-days-grey.png);
+.iv11 {
+  background-image: url(/assets/img/ventures/11a.png);
 }
 
-.i11:hover {
-  background-image: url(../../assets/img/ventures/aviation-experience-days-orange.png);
+.iv11:hover {
+  background-image: url(../../assets/img/ventures/11b.png);
 }
 
-.i12 {
-  background-image: url(/assets/img/ventures/gifter-grey.png);
+.iv12 {
+  background-image: url(/assets/img/ventures/12a.png);
 }
 
-.i12:hover {
-  background-image: url(../../assets/img/ventures/gifter-orange.png);
+.iv12:hover {
+  background-image: url(../../assets/img/ventures/12b.png);
 }
 
-.i13 {
-  background-image: url(/assets/img/ventures/mix-and-rise-grey.png);
+.iv13 {
+  background-image: url(/assets/img/ventures/13a.png);
 }
 
-.i13:hover {
-  background-image: url(../../assets/img/ventures/mix-and-rise-orange.png);
+.iv13:hover {
+  background-image: url(../../assets/img/ventures/13b.png);
 }
 
-.i14 {
-  background-image: url(/assets/img/ventures/circle-grey.png);
+.iv14 {
+  background-image: url(/assets/img/ventures/14a.png);
 }
 
-.i14:hover {
-  background-image: url(../../assets/img/ventures/circle-orange.png);
+.iv14:hover {
+  background-image: url(../../assets/img/ventures/14b.png);
 }
 
-.i15 {
-  background-image: url(/assets/img/ventures/lingupp-grey.png);
+.iv15 {
+  background-image: url(/assets/img/ventures/15a.png);
 }
 
-.i15:hover {
-  background-image: url(../../assets/img/ventures/lingupp-orange.png);
+.iv15:hover {
+  background-image: url(../../assets/img/ventures/15b.png);
 }
 
-.i16 {
-  background-image: url(/assets/img/ventures/lokal-grey.png);
+.iv16 {
+  background-image: url(/assets/img/ventures/16a.png);
 }
 
-.i16:hover {
-  background-image: url(../../assets/img/ventures/lokal-orange.png);
+.iv16:hover {
+  background-image: url(../../assets/img/ventures/16b.png);
 }
 
 #partners a {
