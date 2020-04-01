@@ -329,6 +329,38 @@
   background-image: url(../../assets/img/partners/16b-min.png);
 }
 
+.ip17 {
+  background-image: url(/assets/img/partners/17a-min.png);
+}
+
+.ip17:hover {
+  background-image: url(../../assets/img/partners/17b-min.png);
+}
+
+.ip18 {
+  background-image: url(/assets/img/partners/18a-min.png);
+}
+
+.ip18:hover {
+  background-image: url(../../assets/img/partners/18b-min.png);
+}
+
+.ip19 {
+  background-image: url(/assets/img/partners/19a-min.png);
+}
+
+.ip19:hover {
+  background-image: url(../../assets/img/partners/19b-min.png);
+}
+
+.ip20 {
+  background-image: url(/assets/img/partners/20a-min.png);
+}
+
+.ip20:hover {
+  background-image: url(../../assets/img/partners/20b-min.png);
+}
+
 /* preload images */
 
 #preload {
