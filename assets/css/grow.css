@@ -361,6 +361,14 @@
   background-image: url(../../assets/img/partners/20b-min.png);
 }
 
+.ip21 {
+  background-image: url(/assets/img/partners/21a-min.png);
+}
+
+.ip21:hover {
+  background-image: url(../../assets/img/partners/21b-min.png);
+}
+
 /* preload images */
 
 #preload {
