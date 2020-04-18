@@ -8,6 +8,9 @@ body {
   /* 650 of footer height plus 30 margin-bottom */
 }
 
+.footer {
+}
+
 #button {
   float: right;
 }
