@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/apply/</loc>
+<loc>http://localhost:4000/join/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -17,6 +17,38 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/nef-2020-pitch-day-batch-1-founders/index.html</loc>
+<lastmod>2020-05-07T15:12:14+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nef-2020-pitch-day-batch-1-ventures/index.html</loc>
+<lastmod>2020-05-07T13:21:09+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nef-2020-pitch-day-batch-2-founders/index.html</loc>
+<lastmod>2020-05-07T15:12:30+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nef-2020-pitch-day-batch-2-ventures/index.html</loc>
+<lastmod>2020-05-07T13:20:41+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nef-2020-pitch-day-batch-3-founders/index.html</loc>
+<lastmod>2020-05-07T15:12:47+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nef-2020-pitch-day-batch-3-ventures/index.html</loc>
+<lastmod>2020-05-07T13:22:05+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nef-2020-pitch-day-batch-4-founders/index.html</loc>
+<lastmod>2020-05-07T15:13:03+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nef-2020-pitch-day-batch-4-ventures/index.html</loc>
+<lastmod>2020-05-07T13:22:38+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/nef-fast-track/index.html</loc>

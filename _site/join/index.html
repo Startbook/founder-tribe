@@ -14,7 +14,7 @@
 <meta content="The community for London's solo founders.
 " property="og:description" />
  
-<meta content="http://localhost:4000/apply/" property="og:url" />
+<meta content="http://localhost:4000/join/" property="og:url" />
   
 <meta
   content="http://localhost:4000/assets/img/"
@@ -28,7 +28,7 @@
 
 <meta name="twitter:title" content="Founder Tribe" />
  
-<meta name="twitter:url" content="http://localhost:4000/apply/" />
+<meta name="twitter:url" content="http://localhost:4000/join/" />
  
 <meta name="twitter:description" content="The community for London's solo founders.
 " />
@@ -172,15 +172,31 @@ rel="manifest" href="/assets/img/favicon/manifest.json">
 
   <body style="background-color:#47515c">
     <nav class="navbar navbar-expand-lg navbar-dark bg-orange sticky-nav">
-  <a class="navbar-brand d-block d-md-none" href="/"><img height="45px"  src="/assets/img/Founder-Tribe-Logo-Small.png"/></a>
-  <button id="button" class="navbar-toggler hamburger hamburger--spring" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <a class="navbar-brand d-block d-md-none" href="/"
+    ><img height="45px" src="/assets/img/Founder-Tribe-Logo-Small.png"
+  /></a>
+  <button
+    id="button"
+    class="navbar-toggler hamburger hamburger--spring"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
     <span class="hamburger-box"><span class="hamburger-inner"></span></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
         <!-- <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a> -->
-        <a class="nav-linkbar-brand d-none d-md-block" href="/"><img height="45px"  src="/assets/img/Founder-Tribe-Logo-Small.png"/><span class="sr-only">(current)</span></a>
+        <a class="nav-linkbar-brand d-none d-md-block" href="/"
+          ><img
+            height="45px"
+            src="/assets/img/Founder-Tribe-Logo-Small.png"
+          /><span class="sr-only">(current)</span></a
+        >
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/about">About</a>
@@ -195,7 +211,7 @@ rel="manifest" href="/assets/img/favicon/manifest.json">
         <a class="nav-link" href="/events">Events</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/apply">Apply</a>
+        <a class="nav-link" href="/join">Join</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contact">Contact</a>
@@ -209,8 +225,8 @@ rel="manifest" href="/assets/img/favicon/manifest.json">
       class="wrapper-default"
       style="background-color:white;padding: 50px 0px 75px 0px;"
     >
-      <section class="logo" id="apply" style="text-align: center;">
-  <div class="container" style="max-width: 500px;">
+      <section class="logo" id="apply">
+  <div class="container" style="max-width: 85%;">
     <div class="row">
       <div class="col-md-12">
         <h2
@@ -222,82 +238,167 @@ rel="manifest" href="/assets/img/favicon/manifest.json">
           "
           ;
         >
-          Apply
+          Join
         </h2>
         <br />
-        <p class="lead">
-          Interested in joining the Founder Tribe community?
-        </p>
-        <p class="lead">
-          Register your interest using this form and we'll send you some more
-          information about how to join.
-        </p>
       </div>
     </div>
-  </div>
 
-  <div class="container" style="max-width: 300px;">
     <div class="row">
-      <div class="col-lg-12 text-center"></div>
+      <div
+        class="col-lg-6 offset-lg-3"
+        style="
+          border-radius: 10px;
+          border: 2px solid #727a82;
+          color: #abb5c2;
+          font-size: 1em;
+        "
+      >
+        <br />
+        <p>
+          Join the tribe! We're a group of founders, with shared values, that
+          support each other in building our ventures.
+        </p>
+        <ul>
+          <li><b>Stay Accountable</b></li>
+          <p>
+            Keep working on your venture through the good and bad - we'll help
+            you stick with it!
+          </p>
+          <li><b>Build Your Tribe</b></li>
+          <p>
+            Members can refer other people for accelerated membership
+          </p>
+          <li><b>Collaborate</b></li>
+          <p>
+            Access to our private community - see information about other
+            members and communicate
+          </p>
+          <li><b>Save Money</b></li>
+          <p>
+            Exclusive discounts for the best tech tools to build your venture
+          </p>
+
+          <li><b>Priority Access To Events</b></li>
+          <p>
+            Invitations to exclusive events and priority access to popular
+            public events
+          </p>
+          <li><b>Exclusive Opportunities</b></li>
+          <p>Opportunities from our wider network of partners and supporters</p>
+        </ul>
+      </div>
     </div>
-    <form id="contactForm" method="POST" action="https://formspree.io/mqkdvzok">
-      <div class="form-group">
-        <input
-          class="form-control"
-          id="first-name"
-          type="text"
-          name="first-name"
-          placeholder="First Name *"
-          required="required"
-        />
-        <p class="help-block text-danger"></p>
+    <br />
+    <div class="row">
+      <img
+        src="../assets/img/jointhetribe.png"
+        max-width="720px"
+        max-height="360px"
+        style="margin: auto;"
+      />
+    </div>
+    <br />
+
+    <div class="container" style="max-width: 720px;">
+      <div class="row">
+        <div class="col-lg-12"></div>
       </div>
-      <div class="form-group">
-        <input
-          class="form-control"
-          id="last-name"
-          type="text"
-          name="last-name"
-          placeholder="Last Name *"
-          required="required"
-        />
-        <p class="help-block text-danger"></p>
-      </div>
-      <div class="form-group">
-        <input
-          class="form-control"
-          id="email"
-          type="email"
-          name="_replyto"
-          placeholder="Email *"
-          required="required"
-        />
-        <p class="help-block text-danger"></p>
-      </div>
-      <!-- <div class="form-group">
-        <textarea
-          class="form-control"
-          id="message"
-          name="message"
-          placeholder="Why do you want to join? *"
-          required="required"
-          rows="5"
-        ></textarea>
-        <p class="help-block text-danger"></p>
-      </div> -->
-      <div class="clearfix"></div>
-      <div class="col-lg-12 text-center">
-        <div id="success"></div>
-        <button
-          id="sendMessageButton"
-          class="btn btn-primary btn-xl text-uppercase"
-          type="submit"
-          style="background-color: #f5633b; border: none;"
-        >
-          Register Your Interest
-        </button>
-      </div>
-    </form>
+      <form
+        id="contactForm"
+        method="POST"
+        action="https://formspree.io/mqkdvzok"
+      >
+        <div class="form-group">
+          <input
+            class="form-control"
+            id="first-name"
+            type="text"
+            name="first-name"
+            placeholder="First Name *"
+            required="required"
+          />
+          <p class="help-block text-danger"></p>
+        </div>
+        <div class="form-group">
+          <input
+            class="form-control"
+            id="last-name"
+            type="text"
+            name="last-name"
+            placeholder="Last Name *"
+            required="required"
+          />
+          <p class="help-block text-danger"></p>
+        </div>
+        <div class="form-group">
+          <input
+            class="form-control"
+            id="email"
+            type="email"
+            name="_replyto"
+            placeholder="Email *"
+            required="required"
+          />
+          <p class="help-block text-danger"></p>
+        </div>
+        <div class="form-group">
+          <input
+            class="form-control"
+            id="linkedin"
+            type="text"
+            name="linkedin"
+            placeholder="LinkedIn URL"
+          />
+          <p class="help-block text-danger"></p>
+        </div>
+        <div class="form-group">
+          <input
+            class="form-control"
+            id="venture-name"
+            type="text"
+            name="venture-name"
+            placeholder="Venture Name *"
+            required="required"
+          />
+          <p class="help-block text-danger"></p>
+        </div>
+        <div class="form-group">
+          <input
+            class="form-control"
+            id="venture-website"
+            type="text"
+            name="venture-website"
+            placeholder="Venture Website"
+            required="required"
+          />
+          <p class="help-block text-danger"></p>
+        </div>
+
+        <div class="form-group">
+          <textarea
+            class="form-control"
+            id="message"
+            name="message"
+            placeholder="Why do you want to join? This isn't a trick question and there's no right or wrong answer. *"
+            required="required"
+            rows="6"
+          ></textarea>
+          <p class="help-block text-danger"></p>
+        </div>
+        <div class="clearfix"></div>
+        <div class="col-lg-12 text-center">
+          <div id="success"></div>
+          <button
+            id="join-button"
+            class="btn btn-primary btn-xl text-uppercase"
+            type="submit"
+          >
+            Join The Tribe
+          </button>
+        </div>
+      </form>
+    </div>
   </div>
 </section>
 

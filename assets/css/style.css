@@ -531,7 +531,7 @@ video {
   margin: auto;
 }
 
-.logo img {
+img .logo {
   width: 100%;
   max-width: 125px;
   max-height: 125px;
@@ -551,4 +551,15 @@ video {
 #footer-logo {
   max-height: 105px;
   padding: 15px;
+}
+
+#join-button {
+  background-color: #f5633b;
+  border: none;
+  height: 65px;
+  width: 185px;
+}
+
+#join-button:hover {
+  background-color: #3bcdf5;
 }
