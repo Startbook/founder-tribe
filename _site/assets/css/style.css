@@ -8,8 +8,8 @@ body {
   /* 650 of footer height plus 30 margin-bottom */
 }
 
-.footer {
-}
+/* .footer {
+} */
 
 #button {
   float: right;
@@ -318,9 +318,9 @@ p {
   margin-bottom: 31px;
 }
 
-hr {
-  /* margin-bottom: 31px; */
-}
+/* hr {
+  margin-bottom: 31px;
+} */
 
 .form-input {
   height: 50px;

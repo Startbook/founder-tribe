@@ -21,6 +21,15 @@
   margin: 1em;
 }
 
+.switch {
+  transition: all 0.4s ease-in-out;
+  background-size: cover;
+  display: grid;
+  min-height: 150px;
+  min-width: 150px;
+  margin: 1em;
+}
+
 @media only screen and (max-width: 480px) {
   #ventures a {
     transition: all 0.2s ease-in-out;
@@ -367,6 +376,22 @@
 
 .ip21:hover {
   background-image: url(../../assets/img/partners/21b-min.png);
+}
+
+.it1 {
+  background-image: url(/assets/img/team/1a.png);
+}
+
+.it1:hover {
+  background-image: url(../../assets/img/team/1b.png);
+}
+
+.it2 {
+  background-image: url(/assets/img/team/2a.png);
+}
+
+.it2:hover {
+  background-image: url(../../assets/img/team/2b.png);
 }
 
 /* preload images */
