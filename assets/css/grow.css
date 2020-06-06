@@ -12,6 +12,26 @@
   margin: auto;
 }
 
+.switch {
+  transition: all 0.4s ease-in-out;
+  background-size: cover;
+  display: grid;
+  height: 175px;
+  width: 175px;
+  margin: auto;
+}
+
+.list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+.list-inline > li {
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
 .grow {
   transition: all 0.2s ease-in-out;
   background-size: cover;
@@ -367,6 +387,22 @@
 
 .ip21:hover {
   background-image: url(../../assets/img/partners/21b-min.png);
+}
+
+.it1 {
+  background-image: url(/assets/img/team/1a.png);
+}
+
+.it1:hover {
+  background-image: url(../../assets/img/team/1b.png);
+}
+
+.it2 {
+  background-image: url(/assets/img/team/2a.png);
+}
+
+.it2:hover {
+  background-image: url(../../assets/img/team/2b.png);
 }
 
 /* preload images */

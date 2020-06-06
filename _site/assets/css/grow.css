@@ -16,10 +16,8 @@
   transition: all 0.4s ease-in-out;
   background-size: cover;
   display: grid;
-  min-height: 150px;
-  min-width: 150px;
-  max-height: 150px;
-  max-width: 150px;
+  height: 175px;
+  width: 175px;
   margin: auto;
 }
 
