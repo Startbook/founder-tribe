@@ -389,6 +389,14 @@
   background-image: url(../../assets/img/partners/21b-min.png);
 }
 
+.ip22 {
+  background-image: url(/assets/img/partners/22a-min.png);
+}
+
+.ip22:hover {
+  background-image: url(../../assets/img/partners/22b-min.png);
+}
+
 .it0 {
   background-image: url(/assets/img/team/tbca.png);
 }
