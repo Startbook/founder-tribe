@@ -117,4 +117,8 @@
 <loc>http://localhost:4000/pitch-profiles/index.html</loc>
 <lastmod>2020-07-06T14:25:07+01:00</lastmod>
 </url>
+<url>
+<loc>http://localhost:4000/profiles/index.html</loc>
+<lastmod>2020-07-23T14:48:47+01:00</lastmod>
+</url>
 </urlset>
