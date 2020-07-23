@@ -38,8 +38,12 @@
 <lastmod>2020-07-23T14:47:06+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/london-youth/index.html</loc>
+<loc>http://localhost:4000/london-youth-scoring/index.html</loc>
 <lastmod>2020-07-23T12:52:50+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/london-youth/index.html</loc>
+<lastmod>2020-07-23T14:54:28+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/nef-2020-pitch-day-batch-1-founders/index.html</loc>
@@ -116,9 +120,5 @@
 <url>
 <loc>http://localhost:4000/pitch-profiles/index.html</loc>
 <lastmod>2020-07-06T14:25:07+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/profiles/index.html</loc>
-<lastmod>2020-07-23T14:48:47+01:00</lastmod>
 </url>
 </urlset>
