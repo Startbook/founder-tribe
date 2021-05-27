@@ -397,6 +397,14 @@
   background-image: url(../../assets/img/partners/22b-min.png);
 }
 
+.ip23 {
+  background-image: url(/assets/img/partners/23a-min.png);
+}
+
+.ip23:hover {
+  background-image: url(../../assets/img/partners/23b-min.png);
+}
+
 .it0 {
   background-image: url(/assets/img/team/tbca.png);
 }
@@ -571,30 +579,6 @@
 
 .it21:hover {
   background-image: url(../../assets/img/team/21b.png);
-}
-
-.it22 {
-  background-image: url(/assets/img/team/22a.png);
-}
-
-.it22:hover {
-  background-image: url(../../assets/img/team/22b.png);
-}
-
-.it23 {
-  background-image: url(/assets/img/team/23a.png);
-}
-
-.it23:hover {
-  background-image: url(../../assets/img/team/23b.png);
-}
-
-.it24 {
-  background-image: url(/assets/img/team/24a.png);
-}
-
-.it24:hover {
-  background-image: url(../../assets/img/team/24b.png);
 }
 
 /* preload images */

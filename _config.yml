@@ -5,16 +5,16 @@ permalink: ':title'
 # permalink: ':title'
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://foundertribe.org' # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: Founder_Tribe #if your site has a twitter account, enter it here
+site-twitter: JoinTheTribeApp #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Maxx Turing # add your name
 author-img: # add your photo
 about-author: # add description
-social-twitter: Founder_Tribe # add your Twitter handle
-social-instagram: FounderTribe # add your Instagram handle
-social-github: FounderTribe # add your Github handle
-social-linkedin: FounderTribe # add your Linkedin handle
+social-twitter: JoinTheTribeApp # add your Twitter handle
+social-instagram: JoinTheTribeApp # add your Instagram handle
+social-github: JoinTheTribeApp # add your Github handle
+social-linkedin: JoinTheTribeApp # add your Linkedin handle
 social-email: maxx@foundertribe.org # add your Email address
 
 # Disqus
