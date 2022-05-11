@@ -605,6 +605,22 @@
   background-image: url(../../assets/img/team/24b.png);
 }
 
+.it25 {
+  background-image: url(/assets/img/team/25a.png);
+}
+
+.it25:hover {
+  background-image: url(../../assets/img/team/25b.png);
+}
+
+.it26 {
+  background-image: url(/assets/img/team/26a.png);
+}
+
+.it26:hover {
+  background-image: url(../../assets/img/team/26b.png);
+}
+
 /* preload images */
 
 #preload {
