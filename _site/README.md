@@ -1,4 +1,4 @@
-# foundertribe.github.io
+# JoinTheTribeApp.github.io
 
 
 Requirements:
