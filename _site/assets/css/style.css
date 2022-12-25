@@ -539,12 +539,12 @@ img .logo {
   margin: auto;
 }
 
-#footer-email a {
+.footer-link a {
   color: #f0f0f0;
-  font-size: 1.1em;
+  /* font-size: 1.1em; */
 }
 
-#footer-email a:hover {
+.footer-link a:hover {
   color: #f5633b;
 }
 
